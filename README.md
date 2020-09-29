@@ -4,7 +4,7 @@
 The aim is to use the [data from the past 10 years](https://www.capitalbikeshare.com/system-data) to develop a model that can predict bicycle usage (Number of trips and total time ride usage) at a given day.
 
 * **Combined and prepared** all company **data** into a single file containing the number of trips and total time usage for each day a total period of 10 years.
-* Further complemented this data with [weather data](https://kilthub.cmu.edu/articles/dataset/Compiled_daily_temperature_and_precipitation_data_for_the_U_S_cities/7890488)(temperature and precipitation) 
+* Further complemented this data with [weather data](https://kilthub.cmu.edu/articles/dataset/Compiled_daily_temperature_and_precipitation_data_for_the_U_S_cities/7890488)   (temperature and precipitation) 
 and [US federal holidays](https://docs.opendata.aws/noaa-ghcn-pds/readme.html).
 
 * **Exploratory Data Analyses** were carried out to study the patterns on bike usage. This allowed to select the most relevant attributes for modelling.
