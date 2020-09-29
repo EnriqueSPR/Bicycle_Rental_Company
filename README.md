@@ -61,7 +61,7 @@ Random Forest Regressor, Gradient Boosting Regressor, ExtraTreesRegressor and Xt
 
 Performance of these algos, summarized in the plot below, suggested the **Gradient Boost Regressor(GBR)** as the best algo candidate:
 
-<img src="figures/Algo_comp.png" width="400"/> 
+<img src="figures/Algo_comp1.png" width="400"/> 
 
 # 5. Fine tunning, model evaluation and export:
 
