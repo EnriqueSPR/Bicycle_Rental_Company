@@ -1,5 +1,7 @@
 # Predicting Rental Bike Usage: An end to end project
 
+[**See project here**](https://github.com/EnriqueSPR/Bicycle_Rental_Company/blob/master/Bike_count_predictor.ipynb)
+
 **Description**: I will be using a dataset containing information from a bicycle rental company called capital bikeshare located in Washington D.C founded in 2010. 
 The aim is to use the [data from the past 10 years](https://www.capitalbikeshare.com/system-data) (2010-2020) to develop a model that can predict bicycle usage (Number of trips and total time ride usage) at a given day.
 
