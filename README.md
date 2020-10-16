@@ -1,7 +1,7 @@
 # Predicting Rental Bike Usage: An end to end project
 
 **Description**: I will be using a dataset containing information from a bicycle rental company called capital bikeshare located in Washington D.C founded in 2010. 
-The aim is to use the [data from the past 10 years](https://www.capitalbikeshare.com/system-data)(2010-2020) to develop a model that can predict bicycle usage (Number of trips and total time ride usage) at a given day.
+The aim is to use the [data from the past 10 years](https://www.capitalbikeshare.com/system-data) (2010-2020) to develop a model that can predict bicycle usage (Number of trips and total time ride usage) at a given day.
 
 * **Combined and prepared** all company **data** into a single file containing the number of trips and total time usage for each day a total period of 10 years.
 * Further complemented this data with [weather data](https://kilthub.cmu.edu/articles/dataset/Compiled_daily_temperature_and_precipitation_data_for_the_U_S_cities/7890488)   (temperature and precipitation) 
